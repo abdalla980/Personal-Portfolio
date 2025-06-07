@@ -1,6 +1,6 @@
 import styles from './App.module.css'
 import Navbar from "./Components/Navbar/Navbar.jsx";
-import Hero from "./Components/Hero/hero.js";
+import Hero from "./Components/Hero/hero.jsx";
 import About from "./Components/About/About.jsx";
 import Experience from "./Components/Experience/experience.jsx";
 import {Projects} from "./Components/Projects/Projects.jsx";

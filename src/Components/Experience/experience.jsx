@@ -5,7 +5,6 @@ export function getImageUrl(path){
     return `/Assets/${path}`;
 }
 
-
 function Experience (){
     return (
         <section className={styles.container}   id={"Experience"}>
