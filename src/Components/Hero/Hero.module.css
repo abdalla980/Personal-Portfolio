@@ -103,10 +103,12 @@ filter: blur(100px);
 }
 
 @media screen and (max-width: 830px) {
-    container{
+   container{
         flex-direction: column-reverse;
     }
+
     .content{
         align-items: center;
     }
+
 }
