@@ -23,13 +23,5 @@
     "Link": "https://abdalla980.github.io/Frontend/",
     "GitHub": "https://github.com/abdalla980/Frontend"
 
-  },
-  {
-    "title": "Tic-Tac-Toe",
-    "imageSrc": "Coding.png",
-    "skills": ["Javascript","Html","Css"],
-    "Description":"Tic-Tac-Toe, Tired of drawing X’s and O’s all over your notebook? Now you can play the classic Tic-Tac-Toe game right on your device! Challenge a friend on the same screen, take turns, and enjoy neat, hassle-free gameplay without any mess. — just simple, fun, and better than scribbling in your copybook.",
-    "Link": "https://abdalla980.github.io/tic-tac-toe/",
-    "GitHub": "https://github.com/abdalla980/tic-tac-toe"
   }
 ]
